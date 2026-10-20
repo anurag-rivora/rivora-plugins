@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "rivora": {
+      "url": "${RIVORA_MCP_URL}",
+      "auth": {
+        "CLIENT_ID": "rivora-cursor",
+        "scopes": ["handoff:read", "proposal:write"]
+      }
+    }
+  }
+}

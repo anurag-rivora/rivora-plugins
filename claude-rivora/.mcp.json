@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rivora": {
+      "type": "http",
+      "url": "https://api.rivoraconnect.com.au/mcp/"
+    }
+  }
+}

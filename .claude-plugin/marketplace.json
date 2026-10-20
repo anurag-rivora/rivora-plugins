@@ -1,0 +1,15 @@
+{
+  "name": "rivora",
+  "description": "Rivora Product OS plugins: build from an approved feature handoff in Claude Code.",
+  "owner": {
+    "name": "Rivora Connect",
+    "email": "anurag@rivoraconnect.com.au"
+  },
+  "plugins": [
+    {
+      "name": "rivora",
+      "source": "./claude-rivora",
+      "description": "Sign in to Rivora and implement a feature from its approved, version-pinned handoff."
+    }
+  ]
+}

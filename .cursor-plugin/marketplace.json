@@ -1,0 +1,12 @@
+{
+  "name": "rivora",
+  "owner": {
+    "name": "Rivora Connect"
+  },
+  "plugins": [
+    {
+      "name": "rivora",
+      "source": "cursor-rivora"
+    }
+  ]
+}

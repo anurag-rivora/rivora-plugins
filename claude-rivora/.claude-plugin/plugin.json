@@ -1,0 +1,13 @@
+{
+  "name": "rivora",
+  "version": "1.0.0",
+  "description": "Sign in to Rivora and implement a feature from its approved, version-pinned handoff.",
+  "author": {
+    "name": "Rivora Connect",
+    "email": "anurag@rivoraconnect.com.au",
+    "url": "https://rivoraconnect.com.au"
+  },
+  "homepage": "https://rivoraconnect.com.au",
+  "license": "MIT",
+  "keywords": ["rivora", "feature-pack", "handoff", "product-spec", "mcp"]
+}
