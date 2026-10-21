@@ -1,10 +1,13 @@
 {
   "mcpServers": {
     "rivora": {
-      "url": "${RIVORA_MCP_URL}",
+      "url": "https://api.rivoraconnect.com.au/mcp/",
       "auth": {
         "CLIENT_ID": "rivora-cursor",
-        "scopes": ["handoff:read", "proposal:write"]
+        "scopes": [
+          "handoff:read",
+          "proposal:write"
+        ]
       }
     }
   }

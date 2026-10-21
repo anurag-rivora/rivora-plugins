@@ -6,7 +6,9 @@
   "plugins": [
     {
       "name": "rivora",
-      "source": "cursor-rivora"
+      "source": "cursor-rivora",
+      "description": "Build from the feature plan your team approved in Rivora: sign in with your Rivora login, read every approved part and its open questions, and implement it in the open repository."
     }
-  ]
+  ],
+  "description": "Build from the feature plan your team approved in Rivora: sign in with your Rivora login, read every approved part and its open questions, and implement it in the open repository."
 }

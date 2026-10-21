@@ -4,13 +4,9 @@ Cursor plugin for implementing from a published Rivora feature-pack handoff.
 
 Connecting opens Rivora in the browser. The person signs in with their Rivora account, and Cursor keeps the access token from that login. The plugin does not ask for a pasted token.
 
-## Configure
+## The Rivora address
 
-| Variable | Required | Value |
-| --- | --- | --- |
-| `RIVORA_MCP_URL` | No | Defaults to `https://api.rivoraconnect.com.au/mcp/` |
-
-The URL must include the trailing slash.
+The plugin connects to `https://api.rivoraconnect.com.au/mcp/`. Keep the slash at the end.
 
 ## Connect
 

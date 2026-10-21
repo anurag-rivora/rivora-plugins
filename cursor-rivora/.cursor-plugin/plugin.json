@@ -15,18 +15,7 @@
   ],
   "homepage": "https://rivoraconnect.com.au",
   "repository": "https://github.com/anurag-rivora/rivora-plugins",
-  "variables": {
-    "type": "object",
-    "properties": {
-      "RIVORA_MCP_URL": {
-        "type": "string",
-        "title": "Rivora MCP URL",
-        "description": "Streamable HTTP endpoint, including the trailing slash. Production is the default",
-        "default": "https://api.rivoraconnect.com.au/mcp/",
-        "minLength": 1
-      }
-    }
-  },
   "license": "MIT",
-  "logo": "assets/logo.png"
+  "logo": "assets/logo.png",
+  "displayName": "Rivora"
 }
