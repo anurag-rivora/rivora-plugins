@@ -9,5 +9,12 @@
   },
   "homepage": "https://rivoraconnect.com.au",
   "license": "MIT",
-  "keywords": ["rivora", "feature-pack", "handoff", "product-spec", "mcp"]
+  "keywords": [
+    "rivora",
+    "feature-pack",
+    "handoff",
+    "product-spec",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://rivoraconnect.com.au/privacy"
 }
