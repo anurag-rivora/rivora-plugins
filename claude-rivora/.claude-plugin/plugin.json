@@ -16,5 +16,9 @@
     "product-spec",
     "mcp"
   ],
-  "privacyPolicyUrl": "https://rivoraconnect.com.au/privacy"
+  "privacyPolicyUrl": "https://rivoraconnect.com.au/privacy",
+  "repository": "https://github.com/anurag-rivora/rivora-plugins",
+  "documentationUrl": "https://rivoraconnect.com.au/integrations",
+  "termsOfServiceUrl": "https://rivoraconnect.com.au/terms",
+  "supportUrl": "https://rivoraconnect.com.au/contact"
 }
