@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "rivora",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Find, read and build from the feature plans your team approved in Rivora, and send suggestions back for review.",
   "author": {
     "name": "Rivora Connect",
