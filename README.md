@@ -22,6 +22,18 @@ Claude (claude.ai), ChatGPT and Codex connect straight to the Rivora server:
   on the feature pack.
 - **Never** change an approved output, an approval or the feature pack.
 
+## What the plugins install
+
+Each plugin adds one MCP server, `https://api.rivoraconnect.com.au/mcp/`, and one skill,
+`implement-from-handoff`. You sign in on the Rivora page in your browser. The plugins add no
+hooks, commands, scripts or tool permissions, so your coding agent's own permission settings
+still apply.
+
+## Security
+
+To report a security problem, follow [SECURITY.md](SECURITY.md). Please keep reports out of
+public issues.
+
 ## Support
 
 - Contact: https://rivoraconnect.com.au/contact
